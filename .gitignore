@@ -1,0 +1,3 @@
+#gitignore
+enviroment_config.php
+vendor
